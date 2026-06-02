@@ -2,7 +2,7 @@
 <h3 align="center">IT student|™ML/AI Researcher </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=AI+%2F+ML+Engineer;Building+VYROBE+AI+Fashion;Graduate+School+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=AI+%2F+ML+Engineer; Currently Learning LLM & Diffusion Model;Graduate+School+Aspirant" alt="Typing SVG" />
 </p>
 
 ---
