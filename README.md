@@ -1,88 +1,45 @@
-<h1 align="center">Hi 👋, I'm Muntasir</h1>
-<h3 align="center">IT student|™ML/AI Researcher </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=AI+%2F+ML+Engineer; Currently Learning LLM & Diffusion Model;Graduate+School+Aspirant" alt="Typing SVG" />
-</p>
+# MUNTASIR MAMUN
 
----
+### AI & ML RESEARCHER • SOFTWARE DEVELOPER • BUILDER
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI+Systems+from+Bangladesh;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Researcher+%2B+Developer+%2B+Builder;Turning+Ideas+into+Intelligent+Products" />
 
-- 🎓 ICT student at **BUP, Bangladesh**
-- 🚀 Building AI powered platform
-- 🎖️ Learning, Researching LLM, Diffusion Model 
-- 🎯 Targeting **MS/PhD** in ML/AI at top international universities
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=8b5cf6&style=flat" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=8b5cf6" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=a78bfa" />
 
-## 🛠️ Tech Stack
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
-
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge&logoColor=white)
-
-
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+### 🎯 What I Do
 
----
+```yaml
+name: Muntasir Mamun
+located_in: Bangladesh 🇧🇩
+current_status: Computer Science Student & AI Developer
 
-## 🔗 Connect With Me
+areas_of_expertise:
+  - 🤖 Machine Learning & Deep Learning
+  - 🧠 Generative AI & LLMs
+  - 👕 AI Virtual Try-On Systems
+  - 🌐 Full-Stack Development
+  - 🔬 AI Research
 
-[
+currently_building:
+  - AI-powered Virtual Try-On Systems
+  - Multi-Agent AI Systems
+  - Intelligent Research Tools
+  - AI Products & Startups
 
-![LinkedIn](https://www.linkedin.com/in/muntasir-mamun-70052a23b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-](https://linkedin.com/in/yourprofile)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:muntasirmamun396gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/muntasir-396)
+life_philosophy: "Build. Learn. Research. Repeat."
