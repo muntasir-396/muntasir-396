@@ -1,44 +1,42 @@
-<div align="center">
+# Hi, I'm Muntasir Mamun 👋
 
-# MUNTASIR MAMUN
+### AI Engineer | Machine Learning | MLOps | Software Development
 
-### AI & ML RESEARCHER • SOFTWARE DEVELOPER • BUILDER
+I'm an Information and Communication Engineering student at **Bangladesh University of Professionals (BUP)**, passionate about building intelligent, scalable, and production-ready AI systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI+Systems+from+Bangladesh;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Researcher+%2B+Developer+%2B+Builder;Turning+Ideas+into+Intelligent+Products" />
+My interests lie at the intersection of **Machine Learning, Deep Learning, Backend Engineering, and MLOps**. I enjoy turning theoretical concepts into practical applications, developing end-to-end ML pipelines, and exploring how AI can solve real-world problems.
 
-<br/>
+### 🚀 Technical Skills
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8b5cf6&style=flat" />
+- **Programming:** Python, Java, SQL
+- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation, Ensemble Learning
+- **Deep Learning:** PyTorch, TensorFlow, Keras, CNNs, RNNs, ANNs
+- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+- **Backend Development:** FastAPI, REST APIs
+- **MLOps & Deployment:** Docker, MLflow, DVC, Git, GitHub
+- **Data & Infrastructure:** MySQL, PostgreSQL, MongoDB, Redis, Apache Kafka
+- **Workflow Orchestration:** Apache Airflow
+- **AI Engineering:** LLMs, Retrieval-Augmented Generation (RAG), Vector Databases, Generative AI
 
-</div>
+### 🛠️ What I'm Working On
 
----
+- Building end-to-end machine learning pipelines and deployment workflows.
+- Developing AI-powered applications with scalable backend architectures.
+- Exploring LLM applications, RAG systems, and generative AI.
+- Improving my problem-solving skills through Data Structures and Algorithms.
+- Learning how to build reliable, reproducible, and production-ready ML systems.
 
-## 👨‍💻 About Me
+### 🎯 Current Focus
 
-<table>
-<tr>
+My current focus is on becoming a well-rounded **AI/ML Engineer with strong MLOps and backend engineering skills**, capable of taking machine learning models from experimentation to production.
 
-<td width="55%">
+### 📌 Areas of Interest
 
-### 🎯 What I Do
+Machine Learning · Deep Learning · MLOps · AI Engineering · LLMs · Backend Systems · Generative AI · Applied AI Research
 
-```yaml
-name: Muntasir Mamun
-located_in: Bangladesh 🇧🇩
-current_status: Computer Science Student & AI Developer
+### 🤝 Let's Connect
 
-areas_of_focus:
-  - 🤖 Machine Learning & Deep Learning
-  - 🧠 Generative AI & LLMs
-  - 👕 AI Virtual Try-On Systems
-  - 🌐 Full-Stack Development
-  - 🔬 AI Research
+I'm interested in collaborating on meaningful AI/ML projects, exploring innovative ideas, and learning from the developer community.
 
-currently_building:
-  - AI-powered Virtual Try-On Systems
-  - Multi-Agent AI Systems
-  - Intelligent Research Tools
-  - AI Products & Startups
+**Let's build something useful with AI.**
 
-life_philosophy: "Build. Learn. Research. Repeat."
