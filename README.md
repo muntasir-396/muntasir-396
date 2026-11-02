@@ -1,6 +1,6 @@
 # Hi, I'm Muntasir Mamun 👋
 
-### AI Engineer | Machine Learning | MLOps | Software Development
+### AI Development | Machine Learning | MLOps | Software Development
 
 I'm an Information and Communication Engineering student at **Bangladesh University of Professionals (BUP)**, passionate about building intelligent, scalable, and production-ready AI systems.
 
